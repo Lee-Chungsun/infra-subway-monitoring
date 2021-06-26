@@ -1,0 +1,1 @@
+{"timestamp":"2021-06-26 22:31:28.240","@version":"1","message":"orderNo=1, memberNo=2, deviceId=3","logger_name":"json","thread":"Test worker","level":"INFO","level_value":20000,"orderNo":1,"memberNo":2,"deviceId":3,"caller_class_name":"nextstep.subway.station.domain.Station","caller_method_name":"<init>","caller_file_name":"Station.java","caller_line_number":37}
